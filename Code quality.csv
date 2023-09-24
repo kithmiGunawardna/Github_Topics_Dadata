@@ -1,0 +1,21 @@
+username,repo name,repo url,star count
+realm,SwiftLint,https://github.com/realm/SwiftLint,17800
+facebook,infer,https://github.com/facebook/infer,14300
+analysis-tools-dev,static-analysis,https://github.com/analysis-tools-dev/static-analysis,11700
+Kristories,awesome-guidelines,https://github.com/Kristories/awesome-guidelines,9000
+SonarSource,sonarqube,https://github.com/SonarSource/sonarqube,8100
+checkstyle,checkstyle,https://github.com/checkstyle/checkstyle,7900
+reviewdog,reviewdog,https://github.com/reviewdog/reviewdog,6700
+facebook,pyre-check,https://github.com/facebook/pyre-check,6500
+detekt,detekt,https://github.com/detekt/detekt,5700
+import-js,eslint-plugin-import,https://github.com/import-js/eslint-plugin-import,5000
+trekhleb,state-of-the-art-shitcode,https://github.com/trekhleb/state-of-the-art-shitcode,4900
+pylint-dev,pylint,https://github.com/pylint-dev/pylint,4800
+simplecov-ruby,simplecov,https://github.com/simplecov-ruby/simplecov,4600
+pmd,pmd,https://github.com/pmd/pmd,4400
+phpro,grumphp,https://github.com/phpro/grumphp,4000
+kucherenko,jscpd,https://github.com/kucherenko/jscpd,3200
+htmlhint,HTMLHint,https://github.com/htmlhint/HTMLHint,3000
+codeclimate,codeclimate,https://github.com/codeclimate/codeclimate,2400
+wemake-services,wemake-python-styleguide,https://github.com/wemake-services/wemake-python-styleguide,2300
+uber,piranha,https://github.com/uber/piranha,2100

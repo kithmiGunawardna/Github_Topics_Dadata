@@ -1,0 +1,21 @@
+username,repo name,repo url,star count
+electron,electron,https://github.com/electron/electron,109000
+puppeteer,puppeteer,https://github.com/puppeteer/puppeteer,84600
+microsoft,playwright,https://github.com/microsoft/playwright,55100
+FiloSottile,mkcert,https://github.com/FiloSottile/mkcert,42700
+iamadamdev,bypass-paywalls-chrome,https://github.com/iamadamdev/bypass-paywalls-chrome,41200
+jaywcjlove,linux-command,https://github.com/jaywcjlove/linux-command,25100
+ovity,octotree,https://github.com/ovity/octotree,22500
+segment-boneyard,nightmare,https://github.com/segment-boneyard/nightmare,19400
+checkly,headless-recorder,https://github.com/checkly/headless-recorder,14800
+google,WebFundamentals,https://github.com/google/WebFundamentals,13800
+schickling,chromeless,https://github.com/schickling/chromeless,13200
+GoogleChrome,chrome-extensions-samples,https://github.com/GoogleChrome/chrome-extensions-samples,13100
+gildas-lormeau,SingleFile,https://github.com/gildas-lormeau/SingleFile,12000
+casesandberg,react-color,https://github.com/casesandberg/react-color,11600
+crimx,ext-saladict,https://github.com/crimx/ext-saladict,11100
+MetaMask,metamask-extension,https://github.com/MetaMask/metamask-extension,10600
+chromedp,chromedp,https://github.com/chromedp/chromedp,9600
+moonD4rk,HackBrowserData,https://github.com/moonD4rk/HackBrowserData,8700
+uBlock-LLC,uBlock,https://github.com/uBlock-LLC/uBlock,8100
+ajayyy,SponsorBlock,https://github.com/ajayyy/SponsorBlock,7600

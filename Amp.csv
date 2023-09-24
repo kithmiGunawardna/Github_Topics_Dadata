@@ -1,0 +1,21 @@
+username,repo name,repo url,star count
+amphp,amp,https://github.com/amphp/amp,4000
+danog,MadelineProto,https://github.com/danog/MadelineProto,2500
+unreal4u,telegram-api,https://github.com/unreal4u/telegram-api,766
+amphp,parallel,https://github.com/amphp/parallel,691
+amphp,http-client,https://github.com/amphp/http-client,667
+amphp,byte-stream,https://github.com/amphp/byte-stream,348
+php-service-bus,service-bus,https://github.com/php-service-bus/service-bus,345
+amphp,mysql,https://github.com/amphp/mysql,327
+amphp,parallel-functions,https://github.com/amphp/parallel-functions,248
+amphp,process,https://github.com/amphp/process,217
+amphp,socket,https://github.com/amphp/socket,200
+xtrime-ru,TelegramRSS,https://github.com/xtrime-ru/TelegramRSS,190
+amphp,sync,https://github.com/amphp/sync,144
+amphp,dns,https://github.com/amphp/dns,141
+amphp,redis,https://github.com/amphp/redis,140
+amphp,websocket-client,https://github.com/amphp/websocket-client,126
+kelunik,acme,https://github.com/kelunik/acme,122
+amphp,serialization,https://github.com/amphp/serialization,100
+amphp,websocket-server,https://github.com/amphp/websocket-server,98
+PeeHaa,mailgrab,https://github.com/PeeHaa/mailgrab,91

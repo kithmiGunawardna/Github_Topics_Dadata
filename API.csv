@@ -1,0 +1,21 @@
+username,repo name,repo url,star count
+public-apis,public-apis,https://github.com/public-apis/public-apis,257000
+neovim,neovim,https://github.com/neovim/neovim,69600
+tiangolo,fastapi,https://github.com/tiangolo/fastapi,62900
+strapi,strapi,https://github.com/strapi/strapi,56100
+hoppscotch,hoppscotch,https://github.com/hoppscotch/hoppscotch,54700
+ocornut,imgui,https://github.com/ocornut/imgui,50500
+meilisearch,meilisearch,https://github.com/meilisearch/meilisearch,38900
+slatedocs,slate,https://github.com/slatedocs/slate,35500
+Kong,insomnia,https://github.com/Kong/insomnia,30900
+hasura,graphql-engine,https://github.com/hasura/graphql-engine,30100
+httpie,cli,https://github.com/httpie/cli,29300
+ccxt,ccxt,https://github.com/ccxt/ccxt,29200
+Binaryify,NeteaseCloudMusicApi,https://github.com/Binaryify/NeteaseCloudMusicApi,29100
+trpc,trpc,https://github.com/trpc/trpc,28800
+YMFE,yapi,https://github.com/YMFE/yapi,26500
+encode,django-rest-framework,https://github.com/encode/django-rest-framework,26400
+littlecodersh,ItChat,https://github.com/littlecodersh/ItChat,24300
+directus,directus,https://github.com/directus/directus,23200
+microsoft,api-guidelines,https://github.com/microsoft/api-guidelines,21800
+shieldfy,API-Security-Checklist,https://github.com/shieldfy/API-Security-Checklist,21400
